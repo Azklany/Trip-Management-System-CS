@@ -1,0 +1,997 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Booking.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Booking.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\attractions.css",
+      "PackagePath": "staticwebassets\\css\\attractions.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\flights.css",
+      "PackagePath": "staticwebassets\\css\\flights.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\footer.css",
+      "PackagePath": "staticwebassets\\css\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\framework.css",
+      "PackagePath": "staticwebassets\\css\\framework.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\header.css",
+      "PackagePath": "staticwebassets\\css\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\londonhotels.css",
+      "PackagePath": "staticwebassets\\css\\londonhotels.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\pass.css",
+      "PackagePath": "staticwebassets\\css\\pass.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\ticket.css",
+      "PackagePath": "staticwebassets\\css\\ticket.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\css\\user.css",
+      "PackagePath": "staticwebassets\\css\\user.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\2.png",
+      "PackagePath": "staticwebassets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\Amsterdam.png",
+      "PackagePath": "staticwebassets\\img\\Amsterdam.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\Bern, Switzerland.png",
+      "PackagePath": "staticwebassets\\img\\Bern, Switzerland.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\1.Ambassade Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\1.Ambassade Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\10.The Manor Amsterdam.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\10.The Manor Amsterdam.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\2.Monet Garden Hotel Amsterdam.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\2.Monet Garden Hotel Amsterdam.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\3.Hotel Jakarta Amsterdam.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\3.Hotel Jakarta Amsterdam.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\4.Banks Mansion.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\4.Banks Mansion.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\5.Met Hotel.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\5.Met Hotel.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\6.The Toren.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\6.The Toren.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\7.Eden Hotel Amsterdam.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\7.Eden Hotel Amsterdam.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\8.NH City Centre Amsterdam.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\8.NH City Centre Amsterdam.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AmsterdamHotels\\9.Hotel Estherea.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AmsterdamHotels\\9.Hotel Estherea.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\1.The Social Athens Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\1.The Social Athens Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\10.Brown Acropol.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\10.Brown Acropol.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\2.Electra Metropolis Athens.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\2.Electra Metropolis Athens.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\3.Herodion Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\3.Herodion Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\4.InnAthens.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\4.InnAthens.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\5.The Athens Gate Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\5.The Athens Gate Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\6.Electra Palace Athens.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\6.Electra Palace Athens.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\7.Plaka Hotel.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\7.Plaka Hotel.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\8.Ivis4 Boutique Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\8.Ivis4 Boutique Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\AthensHotels\\9.Hotel Grande Bretagne.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\AthensHotels\\9.Hotel Grande Bretagne.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\1.The Mandala Hotel.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\1.The Mandala Hotel.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\10.Hotel Palace Berlin.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\10.Hotel Palace Berlin.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\2.Grand Hyatt Berlin.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\2.Grand Hyatt Berlin.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\3.Hotel Zoo Berlin.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\3.Hotel Zoo Berlin.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\4.Mercure Hotel MOA Berlin.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\4.Mercure Hotel MOA Berlin.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\5.Steigenberger Hotel Am Kanzleramt.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\5.Steigenberger Hotel Am Kanzleramt.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\6.The Circus Hotel.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\6.The Circus Hotel.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\7.Ludwig Van Beethoven Hotel.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\7.Ludwig Van Beethoven Hotel.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\8.Park Inn by Radisson Berlin Alexanderplatz Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\8.Park Inn by Radisson Berlin Alexanderplatz Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BerlinHotels\\9.Meliá Berlin.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BerlinHotels\\9.Meliá Berlin.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\1.Hotel Schweizerhof Bern & Spa.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\1.Hotel Schweizerhof Bern & Spa.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\10.Novotel Bern Expo.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\10.Novotel Bern Expo.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\2.Hotel Jardin Bern.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\2.Hotel Jardin Bern.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\3.NH Bern The Bristol.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\3.NH Bern The Bristol.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\4.Bellevue Palace.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\4.Bellevue Palace.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\5.Hotel Savoy.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\5.Hotel Savoy.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\6.Swissotel Kursaal Bern.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\6.Swissotel Kursaal Bern.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\7.Hotel Baren am Bundesplatz.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\7.Hotel Baren am Bundesplatz.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\8.Best Western Plus Hotel Bern.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\8.Best Western Plus Hotel Bern.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\BernHotels\\9.Holiday Inn Bern - Westside, an IHG hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\BernHotels\\9.Holiday Inn Bern - Westside, an IHG hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\1.Corpo Santo Historical.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\1.Corpo Santo Historical.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\10.Brown's Central.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\10.Brown's Central.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\2.Hotel Da Baixa.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\2.Hotel Da Baixa.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\3.Hotel Avenida Palace.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\3.Hotel Avenida Palace.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\4.Blue Liberdade.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\4.Blue Liberdade.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\5.Jupiter Lisboa.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\5.Jupiter Lisboa.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\6.Hotel Santa Justa.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\6.Hotel Santa Justa.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\7.Republica Bed & Breakfast & Arts.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\7.Republica Bed & Breakfast & Arts.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\8.Hotel Britania Art Deco.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\8.Hotel Britania Art Deco.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LisbonHotels\\9.1908 Lisboa.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LisbonHotels\\9.1908 Lisboa.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\1.The Resident Liverpool.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\1.The Resident Liverpool.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\10.Travelodge Liverpool Central.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\10.Travelodge Liverpool Central.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\2.Hope Street Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\2.Hope Street Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\3.Pullman Liverpool.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\3.Pullman Liverpool.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\4.INNSiDE by Melia Liverpool.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\4.INNSiDE by Melia Liverpool.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\5.Titanic Hotel Liverpool.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\5.Titanic Hotel Liverpool.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\6.Quest Liverpool City Centre.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\6.Quest Liverpool City Centre.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\7.Novotel Liverpool Paddington Village.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\7.Novotel Liverpool Paddington Village.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\8.Hard Days Night Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\8.Hard Days Night Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LiverpoolHotels\\9.Malmaison Liverpool.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LiverpoolHotels\\9.Malmaison Liverpool.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\1.Shangri-La The Shard.5.webp",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\1.Shangri-La The Shard.5.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\10.Conrad London St. James.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\10.Conrad London St. James.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\2.The Montcalm Royal.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\2.The Montcalm Royal.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\3.Royal Lancaster.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\3.Royal Lancaster.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\4.The Chesterfield Mayfair.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\4.The Chesterfield Mayfair.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\5.St. Ermin's Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\5.St. Ermin's Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\6.The Savoy.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\6.The Savoy.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\7.The Bloomsbury.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\7.The Bloomsbury.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\8.The Kensington.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\8.The Kensington.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\LondonHotels\\9.The Montague on The Gardens.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\LondonHotels\\9.The Montague on The Gardens.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\1.Hotel Malte - Astotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\1.Hotel Malte - Astotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\10.Hotel des Arts - Montmartre.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\10.Hotel des Arts - Montmartre.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\2.Hotel Astoria - Astotel.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\2.Hotel Astoria - Astotel.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\3.Novotel Paris Les Halles.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\3.Novotel Paris Les Halles.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\4.La Maison Favart.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\4.La Maison Favart.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\5.Hotel Maison Mere.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\5.Hotel Maison Mere.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\6.Grand Hotel du Palais Royal.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\6.Grand Hotel du Palais Royal.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\7.Hotel La Comtesse.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\7.Hotel La Comtesse.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\8.Hotel Joke - Astotel.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\8.Hotel Joke - Astotel.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ParisHotels\\9.Generator Paris.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ParisHotels\\9.Generator Paris.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\1.Hotel Artemide.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\1.Hotel Artemide.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\10.Roma Palazzo Cinquecento.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\10.Roma Palazzo Cinquecento.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\2.Hotel Colosseum.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\2.Hotel Colosseum.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\3.Hotel Barocco.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\3.Hotel Barocco.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\4.Hotel Santa Maria.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\4.Hotel Santa Maria.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\5.iQ Hotel Roma.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\5.iQ Hotel Roma.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\6.Domidea Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\6.Domidea Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\7.Dharma Boutique Hotel & Spa.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\7.Dharma Boutique Hotel & Spa.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\8.Rome Life Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\8.Rome Life Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\RomeHotels\\9.Hotel Savoy Roma.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\RomeHotels\\9.Hotel Savoy Roma.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\1.Bank Hotel.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\1.Bank Hotel.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\10.Haymarket by Scandic.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\10.Haymarket by Scandic.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\2.Hotel Rival.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\2.Hotel Rival.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\3.Nordic Light Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\3.Nordic Light Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\4.Grand Hotel.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\4.Grand Hotel.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\5.Downtown Camper by Scandic.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\5.Downtown Camper by Scandic.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\6.Freys Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\6.Freys Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\7.Radisson Blu Waterfront.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\7.Radisson Blu Waterfront.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\8.Berns Hotel.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\8.Berns Hotel.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\StockholmHotels\\9.Motel L Hammarby Sjostad.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\StockholmHotels\\9.Motel L Hammarby Sjostad.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\1.Palazzo Veneziano.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\1.Palazzo Veneziano.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\10.H10 Palazzo Canova.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\10.H10 Palazzo Canova.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\2.Hotel Saturnia & International Venezia.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\2.Hotel Saturnia & International Venezia.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\3.Hotel Antiche Figure.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\3.Hotel Antiche Figure.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\4.Hotel Moresco.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\4.Hotel Moresco.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\5.Rosa Salva.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\5.Rosa Salva.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\6.Hotel Palazzo Stern.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\6.Hotel Palazzo Stern.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\7.Ruzzini Palace.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\7.Ruzzini Palace.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\8.Hotel Bucintoro.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\8.Hotel Bucintoro.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\VeniceHotels\\9.Hotel Savoia & Jolanda.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\VeniceHotels\\9.Hotel Savoia & Jolanda.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\1.The Harmonie.4.jpeg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\1.The Harmonie.4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\10.Hilton Vienna Plaza.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\10.Hilton Vienna Plaza.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\2.Austria Classic.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\2.Austria Classic.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\3.hotel kaiserhof wien.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\3.hotel kaiserhof wien.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\4.Boutique Hotel am Stephansplatz.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\4.Boutique Hotel am Stephansplatz.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\5.BoutiqueHOTEL Donauwalzer.3.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\5.BoutiqueHOTEL Donauwalzer.3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\6.Hotel Imperial Vienna.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\6.Hotel Imperial Vienna.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\7.Hotel Rathaus Wein & Design.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\7.Hotel Rathaus Wein & Design.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\8.Andaz Vienna Am Belvedere.5.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\8.Andaz Vienna Am Belvedere.5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\CitiesHotels\\ViennaHotels\\9.Hollmann Beletage Design & Boutique.4.jpg",
+      "PackagePath": "staticwebassets\\img\\CitiesHotels\\ViennaHotels\\9.Hollmann Beletage Design & Boutique.4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\Istanbul.jpg",
+      "PackagePath": "staticwebassets\\img\\Istanbul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\Logo-pdf.png",
+      "PackagePath": "staticwebassets\\img\\Logo-pdf.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\Star.png",
+      "PackagePath": "staticwebassets\\img\\Star.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\Stockholm, Sweden.png",
+      "PackagePath": "staticwebassets\\img\\Stockholm, Sweden.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TopHotels\\1.Shangri-La The Shard; London, United Kingdom.webp",
+      "PackagePath": "staticwebassets\\img\\TopHotels\\1.Shangri-La The Shard; London, United Kingdom.webp"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TopHotels\\2.Romance; Istanbul, T_rkiye.jpg",
+      "PackagePath": "staticwebassets\\img\\TopHotels\\2.Romance; Istanbul, T_rkiye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TopHotels\\3.Ikos Dassia; Corfu, Greece.jpg",
+      "PackagePath": "staticwebassets\\img\\TopHotels\\3.Ikos Dassia; Corfu, Greece.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TopHotels\\4.Ikos Andalusia; Estepona, Spain.jpg",
+      "PackagePath": "staticwebassets\\img\\TopHotels\\4.Ikos Andalusia; Estepona, Spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TopHotels\\5.Voyage Sorgun; Side, T_rkiye.jpg",
+      "PackagePath": "staticwebassets\\img\\TopHotels\\5.Voyage Sorgun; Side, T_rkiye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TopHotels\\6.Ikos Aria; Kتs, Greece.jpg",
+      "PackagePath": "staticwebassets\\img\\TopHotels\\6.Ikos Aria; Kتs, Greece.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TopHotels\\7.Corpo Santo Historical; Lisbon, Portugal.jpg",
+      "PackagePath": "staticwebassets\\img\\TopHotels\\7.Corpo Santo Historical; Lisbon, Portugal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TopHotels\\8.Hotel Malte - Astotel; Paris, France.jpg",
+      "PackagePath": "staticwebassets\\img\\TopHotels\\8.Hotel Malte - Astotel; Paris, France.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Athens.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Athens.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Bern.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Bern.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Istanbul.jpg",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Istanbul.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Liverpool.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Liverpool.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\London, United Kingdom.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\London, United Kingdom.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Madrid, Spain.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Madrid, Spain.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Paris France.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Paris France.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Rome.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Rome.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Stockholm.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Stockholm.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\Venice.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\Venice.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\istanbul.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\istanbul.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\london.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\london.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\TrendingDestinations\\madrid.png",
+      "PackagePath": "staticwebassets\\img\\TrendingDestinations\\madrid.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\berlin.png",
+      "PackagePath": "staticwebassets\\img\\berlin.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\ei_1701156231736-removebg-preview.png",
+      "PackagePath": "staticwebassets\\img\\ei_1701156231736-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\lisbon.png",
+      "PackagePath": "staticwebassets\\img\\lisbon.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\logo-1.png",
+      "PackagePath": "staticwebassets\\img\\logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\london.png",
+      "PackagePath": "staticwebassets\\img\\london.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\madrid.png",
+      "PackagePath": "staticwebassets\\img\\madrid.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\paris.jpg",
+      "PackagePath": "staticwebassets\\img\\paris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\slide.jpg",
+      "PackagePath": "staticwebassets\\img\\slide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\slide1.jpg",
+      "PackagePath": "staticwebassets\\img\\slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\slide2.jpg",
+      "PackagePath": "staticwebassets\\img\\slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\img\\trip-1.png",
+      "PackagePath": "staticwebassets\\img\\trip-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\js\\style.js",
+      "PackagePath": "staticwebassets\\js\\style.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\project\\Booking\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Booking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Booking.props",
+      "PackagePath": "build\\Booking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Booking.props",
+      "PackagePath": "buildMultiTargeting\\Booking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Booking.props",
+      "PackagePath": "buildTransitive\\Booking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
